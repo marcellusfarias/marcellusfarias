@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcellusfarias
-- 👀 I’m interested in backend software development, with experience developing highly performance microserving projects using Rust and MVC projects with C#.
-- 🌱 I’m currently learning more about Rust and different architecture principles so I can build the best possible projects.
+- 👀 Interested on continue building modern .Net applications. Preferred tech stack: C#, MSSQL, Docker, Apache Kafka.
+- 🌱 Currently improving skills on Postgres, AWS services and Javascript.
 - 💞️ I’m looking to collaborate on projects that can be used by thousands of people.
 - 📫 How to reach me: marcelluscfarias@gmail.com and on Linkedin: https://www.linkedin.com/in/marcellus-farias/
 
