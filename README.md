@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcellusfarias
 - 👀 Interested on continue building modern .Net applications. Preferred tech stack: C#, MSSQL, Docker, Apache Kafka. 
 - 🌱 Currently improving skills on Postgres, AWS services and Javascript.
-- 💞️ I’m looking to collaborate on projects that can be used by thousands of people. Also like Rust.
+- 💞️ I’m looking to collaborate on projects that can be used by thousands of people.
 - 📫 How to reach me: marcelluscfarias@gmail.com and on Linkedin: https://www.linkedin.com/in/marcellus-farias/
 
 <!---
